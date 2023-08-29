@@ -6,6 +6,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@dondrzzy"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dondrzzy/github-actions-package.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
